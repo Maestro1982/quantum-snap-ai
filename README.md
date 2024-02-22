@@ -49,5 +49,7 @@ and many more, including code architecture and reusability
 💳 Payment Instructions
 
 💳 number: 4242 4242 4242 4242
+
 📅 expire date of card: put something in the future for example 04/30
+
 cvv: for example 123
