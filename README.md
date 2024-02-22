@@ -52,4 +52,4 @@ and many more, including code architecture and reusability
 
 📅 expire date of card: put something in the future for example 04/30
 
-cvv: for example 123
+cvc: for example 123
