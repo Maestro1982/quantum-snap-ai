@@ -13,6 +13,7 @@ Build an AI image SaaS platform that excels in image processing capabilities, in
 - TailwindCSS
 
 🔋 Features
+
 👉 Authentication and Authorization: Secure user access with registration, login, and route protection.
 
 👉 Community Image Showcase: Explore user transformations with easy navigation using pagination
